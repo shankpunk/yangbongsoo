@@ -1,5 +1,5 @@
 1. DuBongProject :
-  2013년 12월 대학교2학년 2학기 기말고사로 만든 안드로이드 비행기 슈팅게입니다 
+  2013년 12월 대학교2학년 2학기 기말고사로 만든 안드로이드 비행기 슈팅게임입니다 
 
 2. ImageProcessing_FinalProject, 
    ImageProcessing_FinalProjectColor :
